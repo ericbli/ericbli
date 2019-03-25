@@ -1,2 +1,2 @@
-# ericbli
-Homepage
+# ericbli.github.io
+Homepage for show
